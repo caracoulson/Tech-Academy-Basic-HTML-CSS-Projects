@@ -1,0 +1,18 @@
+table {
+    border: 2px solid lightblue;
+}
+
+td:hover {
+    background-color: lightblue;
+    color: navy;
+}
+
+tr, th {
+    background-color: firebrick;
+    color: snow;
+}
+
+tr, td {
+    background-color: gainsboro;
+    color: steelblue ;
+}
